@@ -1,0 +1,10 @@
+h1{
+    background-color: yellow;
+    color: violet;
+}
+body{
+    background-color: turquoise;
+}
+h2{
+    display: inline;
+}
